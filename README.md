@@ -1,4 +1,7 @@
-# ICD-coding
+# Clinical Data Models
+
+
+## ICD-coding
 
 Hierarchical condition category (HCC) coding helps communicate **patient complexity** and paint a picture of the whole patient. In addition to helping predict health care resource utilization, RAF scores are used to risk adjust quality and cost metrics. By accounting for differences in **patient complexity, quality and cost performance** can be more appropriately measured. 
 
