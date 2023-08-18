@@ -1,5 +1,6 @@
 # Clinical Data Models
 
+Open Medical Record System ([OpenMRS](https://openmrs.org/)): is an open-source electronic health record (EHR) system designed to support the delivery of healthcare in resource-constrained environments.
 
 ## ICD-coding
 
