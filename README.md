@@ -2,6 +2,8 @@
 
 Open Medical Record System ([OpenMRS](https://openmrs.org/)): is an open-source electronic health record (EHR) system designed to support the delivery of healthcare in resource-constrained environments.
 
+The Observational Medical Outcomes Partnership ([OMOP](https://www.ohdsi.org/data-standardization/#:~:text=The%20Observational%20Medical%20Outcomes%20Partnership,that%20can%20produce%20reliable%20evidence.)) Common Data Model (CDM) is an open community data standard, designed to standardize the structure and content of observational data and to enable efficient analyses that can produce reliable evidence.
+
 ## ICD-coding
 
 Hierarchical condition category (HCC) coding helps communicate **patient complexity** and paint a picture of the whole patient. In addition to helping predict health care resource utilization, RAF scores are used to risk adjust quality and cost metrics. By accounting for differences in **patient complexity, quality and cost performance** can be more appropriately measured. 
