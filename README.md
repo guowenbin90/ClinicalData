@@ -2,9 +2,18 @@
 
 Open Medical Record System ([OpenMRS](https://openmrs.org/)): is an open-source electronic health record (EHR) system designed to support the delivery of healthcare in resource-constrained environments.
 
+**Open source Research Common Data Models:**
+- i2b2: Harvard University / Partners Healthcare
+- OMOP: OHDSI Consortium
+- Sentinel: USA FDA
+- PCORnet: Patient Centered Outcomes Research Institute
+
 The Observational Medical Outcomes Partnership ([OMOP](https://www.ohdsi.org/data-standardization/#:~:text=The%20Observational%20Medical%20Outcomes%20Partnership,that%20can%20produce%20reliable%20evidence.)) Common Data Model (CDM) is an open community data standard, designed to standardize the structure and content of observational data and to enable efficient analyses that can produce reliable evidence.
 
 i2b2 is an open-source clinical data warehousing and analytics research platform, which enables sharing, integration, standardization, and analysis of heterogenous data from healthcare and research.
+
+[Sentinel Common Data Model (SCDM)](https://www.sentinelinitiative.org/methods-data-tools/sentinel-common-data-model): a standard data structure that allows Data Partners to quickly execute distributed programs against local data.
+
 
 ## ICD-coding
 
