@@ -14,7 +14,7 @@ i2b2 is an open-source clinical data warehousing and analytics research platform
 
 [Sentinel Common Data Model (SCDM)](https://www.sentinelinitiative.org/methods-data-tools/sentinel-common-data-model): a standard data structure that allows Data Partners to quickly execute distributed programs against local data.
 
-MIMIC-III (‘Medical Information Mart for Intensive Care’) is a large, single-center database comprising information relating to patients admitted to critical care units at a large tertiary care hospital. 
+[MIMIC-III](https://physionet.org/content/mimiciii/1.4/) (‘Medical Information Mart for Intensive Care’) is a large, single-center database comprising information relating to patients admitted to critical care units at a large tertiary care hospital. 
 
 ## ICD-coding
 
