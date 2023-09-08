@@ -16,7 +16,10 @@ i2b2 is an open-source clinical data warehousing and analytics research platform
 
 [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) (‘Medical Information Mart for Intensive Care’) is a large, single-center database comprising information relating to patients admitted to critical care units at a large tertiary care hospital. 
 
-Extraction, Transformation, and Loading (ETL) 
+**Extraction, Transformation, and Loading (ETL) **
+- Data profiling: Understanding the features of the data in a source database
+- Data mapping: Moving data from source location to target location
+- Terminology mapping: Converting codes/values used in source to codes/values allowed in target
 
 ## ICD-coding
 
