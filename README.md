@@ -16,6 +16,8 @@ i2b2 is an open-source clinical data warehousing and analytics research platform
 
 [MIMIC-III](https://physionet.org/content/mimiciii/1.4/) (‘Medical Information Mart for Intensive Care’) is a large, single-center database comprising information relating to patients admitted to critical care units at a large tertiary care hospital. 
 
+Extraction, Transformation, and Loading (ETL) 
+
 ## ICD-coding
 
 Hierarchical condition category (HCC) coding helps communicate **patient complexity** and paint a picture of the whole patient. In addition to helping predict health care resource utilization, RAF scores are used to risk adjust quality and cost metrics. By accounting for differences in **patient complexity, quality and cost performance** can be more appropriately measured. 
