@@ -20,6 +20,9 @@ i2b2 is an open-source clinical data warehousing and analytics research platform
 - Data profiling: Understanding the features of the data in a source database
 - Data mapping: Moving data from source location to target location
 - Terminology mapping: Converting codes/values used in source to codes/values allowed in target
+  
+[White Rabbit data](https://github.com/OHDSI/WhiteRabbit)
+
 
 ## ICD-coding
 
