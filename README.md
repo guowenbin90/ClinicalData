@@ -23,6 +23,7 @@ i2b2 is an open-source clinical data warehousing and analytics research platform
   
 [White Rabbit data](https://github.com/OHDSI/WhiteRabbit)
 
+**Transfroming MIMIC Patient to OMOP Person**
 
 ## ICD-coding
 
